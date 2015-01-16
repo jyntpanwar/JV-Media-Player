@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="res"/>
+	<classpathentry kind="src" path="libraries"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry exported="true" kind="lib" path="libraries/basicplayer3.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="libraries/commons-logging-api.jar"/>
+	<classpathentry exported="true" kind="lib" path="libraries/jl1.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="libraries/jogg-0.0.7.jar"/>
+	<classpathentry exported="true" kind="lib" path="libraries/jorbis-0.0.15.jar"/>
+	<classpathentry exported="true" kind="lib" path="libraries/jspeex0.9.7.jar"/>
+	<classpathentry exported="true" kind="lib" path="libraries/mp3spi1.9.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="libraries/tritonus_share.jar"/>
+	<classpathentry exported="true" kind="lib" path="libraries/vorbisspi1.0.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
